@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denissitnikov
-- 👀 I’m interested in lots of things (kind of generalist). Mainly, product management and cognitive science.
-- 🌱 I’m currently learning CS50
+- 👀 Aspiring product manager, keen on cognitive science too.
+- 🌱 I’m currently learning CS50x 2022
 - 💞️ I’m looking to collaborate on ... not yet
 
 <!---
