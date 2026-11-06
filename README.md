@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denissitnikov
-- 👀 product manager @ google
-- 🌱 currently solving my own pain point... see my latest...
+- 👀 doing some product stuff at Google (required to say: personal projects and views are my own).
+- 🌱 working on my own macOS productivity app
 
 <!---
 denissitnikov/denissitnikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
