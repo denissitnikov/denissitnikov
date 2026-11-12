@@ -1,3 +1,3 @@
 - 👋 hi there, I'm Denis
 - I do some product stuff at Google (required to say: personal projects and views are my own)
-- Currently working on my own little macOS app, running it as solo developer / AI PM
+- currently working on my own little macOS app, running it as solo developer / AI PM
