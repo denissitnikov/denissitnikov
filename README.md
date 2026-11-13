@@ -1,1 +1,2 @@
-- working on my own little macOS app, running it as solo developer / AI PM
+- working on my own little macOS app, [SlideTab](https://slidetab.app), running it as solo developer / AI PM
+- open-sourced two pieces of it along the way: [SeatStamp](https://github.com/denissitnikov/seatstamp) (offline licensing for Mac apps) and [sphere-gl](https://github.com/denissitnikov/sphere-gl) (the WebGL background on its website)
